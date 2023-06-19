@@ -1,3 +1,7 @@
+import './challenges/easy/4_Pick/index';
+import './challenges/easy/7_Readonly/index';
+import './challenges/easy/11_Tuple_To_Objects/index';
+
 function App() {
   return (
     <div className="App">
